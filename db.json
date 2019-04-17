@@ -1,22 +1,8 @@
-{
- 
+
     {
       "id": 1,
       "first_name": "Sdsdscczn",
       "last_name": "Eschweiler",
       "email": "sebastian@codingthesmartway.com"
-    },
-    {
-      "id": 2,
-      "first_name": "12121212",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com"
-    },
-    {
-      "id": 3,
-      "first_name": "sfsfn",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
     }
-  
-}
+    
